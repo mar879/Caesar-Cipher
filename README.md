@@ -1,1 +1,3 @@
 # Caesar-Cipher
+
+A Caesar Cipher is a method of encryption. In this specific cipher, the characters in the even position are shifted by the first (user inputted) key. The characters in the odd positions are shifted by the second (user inputted) key. Both keys have a range from 1 to 94 inclusive. This cipher also has the option to encrypt going from left to right (denoted by a + direction) and from right to left (denoted by a - direction). There is also a decrypt functionality, which if given the encrypted message with the encrypted keys and direction, then it will output the original message. 
